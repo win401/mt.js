@@ -3,6 +3,10 @@ const scores = [85, 92, 78, 96, 88];
 
 function getAverage(scoreArray) {
   // 이곳에 코드를 작성합니다.
+  let totalScore = 0;
+  for (let i = 0; i < scoreArray.length; i++) {
+    totalScore;
+  }
 }
 
 console.log(getAverage(scores)); // 87.8이 출력되어야 함
